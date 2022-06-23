@@ -5,7 +5,6 @@ workflows:
   build:
     jobs:
       - build
-
 jobs:
   build:
     working_directory: ~/mern-starter
